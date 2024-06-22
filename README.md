@@ -1,3 +1,1 @@
 # thankful-kitt.github.io
-
-👋
